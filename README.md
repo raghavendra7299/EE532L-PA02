@@ -1,9 +1,11 @@
 # EE532L Deep Learning for Healthcare - Programming Assignment 02
 
 ## Report
-Accuracy: 
+Accuracy: 0.75974
 
-Observations:
+Observations: The test accuracy of the model using Principal Component Analysis (PCA) for feature reduction is lower compared to the model without PCA. This indicates that the reduced-dimensional representation of the features obtained through PCA may not capture all the relevant information for accurate classification as effectively as using the original features directly.
+![image](https://github.com/Electrical-Engineering-IIT-Tirupati/EE532L-PA02/assets/159757647/431890fb-dfd7-4e42-91a1-f3654594f0d8)
+
 ![fig](assets/logo.png)
 
 
